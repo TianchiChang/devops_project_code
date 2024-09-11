@@ -4,3 +4,9 @@
 [submodule "TARGET_FOLDER_1"]
 	path = TARGET_FOLDER_1
 	url = https://github.com/TianchiChang/devops_edge_beta8.git
+[submodule "devops_device_beta3"]
+	path = devops_device_beta3
+	url = https://github.com/TianchiChang/devops_device_beta3.git
+[submodule "devops_device_beta8"]
+	path = devops_device_beta8
+	url = https://github.com/TianchiChang/devops_edge_beta8.git
