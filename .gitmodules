@@ -1,0 +1,6 @@
+[submodule "TARGET_FOLDER"]
+	path = TARGET_FOLDER
+	url = https://github.com/TianchiChang/devops_device_beta3.git
+[submodule "TARGET_FOLDER_1"]
+	path = TARGET_FOLDER_1
+	url = https://github.com/TianchiChang/devops_edge_beta8.git
